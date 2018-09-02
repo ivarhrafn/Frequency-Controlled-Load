@@ -9,4 +9,4 @@ The microcontroller is connected to an analog board that steps down the input vo
 to a light bulb and the other to a power socket. The microcontroller then sets the relays on or off in
 accordance with the frequency. 
 
-The microcontroller comes equipped with a LCD display with touch screen functionality, which is used to set up a user interface.
+The microcontroller comes equipped with an LCD display with touch screen functionality, which is used to set up a user interface.
